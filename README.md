@@ -25,7 +25,7 @@
 		"announce": "",
 		"source": "delete",
 		"creation date": 600,
-         "rename": "yes",
+                "rename": "yes",
 		"comment": "delete"
 	},
 
