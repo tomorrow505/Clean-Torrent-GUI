@@ -1,0 +1,45 @@
+{
+	"HDT": {
+		"announce": "http://hdts-announce.ru/announce.php",
+		"source": "blank",
+		"creation date": 600,
+		"comment": "blank"
+	},
+	
+	"PTP": {
+		"announce": "",
+		"source": "delete",
+		"creation date": 600,
+		"comment": "delete"
+	},
+
+	"MTV": {
+		"announce": "",
+		"source": "delete",
+		"creation date": 600,
+		"comment": "delete"
+	},
+
+	"SC": {
+		"announce": "",
+		"source": "delete",
+		"creation date": 600,
+		"comment": "delete"
+	},
+
+	"BTN": {
+		"announce": "",
+		"source": "delete",
+		"creation date": 600,
+		"comment": "delete"
+	},
+
+	"KG": {
+		"announce": "",
+		"source": "delete",
+		"creation date": 600,
+		"comment": "delete"
+	},
+
+	"PURIST": {}
+}
