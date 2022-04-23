@@ -84,7 +84,7 @@
 
 ![123.png](https://www.z4a.net/images/2022/04/19/123.png)
 
-### 更新20220423
+### 更新20220423 V2.0
 因为内站转外站很多时候mediainfo就变成自定义的短的了，然后需要找到视频进行mediainfo的获取；或者需要原图、缩略图。所以写了imgbox和ptpimg两个图床。
 需要配置imghost.json，如果你使用了代理，替换成自己的端口，如果想使用ptpimg，填上自己的api-key。
 
