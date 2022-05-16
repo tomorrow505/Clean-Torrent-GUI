@@ -8,14 +8,14 @@
 	
 	"PTP": {
 		"announce": "",
-		"source": "delete",
+		"source": "PTP",
 		"creation date": 600,
 		"comment": "delete"
 	},
 
 	"MTV": {
 		"announce": "",
-		"source": "delete",
+		"source": "MTV",
 		"creation date": 600,
 		"rename": "yes",		
 		"comment": "delete"
@@ -23,21 +23,21 @@
 
 	"SC": {
 		"announce": "",
-		"source": "delete",
+		"source": "SC",
 		"creation date": 600,
 		"comment": "delete"
 	},
 
 	"BTN": {
 		"announce": "",
-		"source": "delete",
+		"source": "BTN",
 		"creation date": 600,
 		"comment": "BTN"
 	},
 
 	"KG": {
 		"announce": "",
-		"source": "delete",
+		"source": "KG",
 		"creation date": 600,
 		"comment": "delete"
 	},
